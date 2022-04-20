@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sites Lists/Piracy Sites.md",
+            "file": "Programming/Input() function.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sites Lists/Piracy Sites.md",
+                "file": "Programming/Input() function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6029631202aabedd",
   "lastOpenFiles": [
+    "Programming/Input() function.md",
+    "Programming/Length len().md",
+    "Programming/Lists.md",
+    "Programming/Math Operators.md",
     "Sites Lists/Piracy Sites.md",
     "Programming/Computer_Programming.md",
     "Programming/Classes.md",
     "Untitled.md",
     "Chemistry/Base.md",
-    "Chemistry/Acid.md",
-    "Cooking/Leaveners.md",
-    "Chemistry/Quarks.md",
-    "Chemistry/Neutron.md",
-    "Chemistry/Protons.md"
+    "Chemistry/Acid.md"
   ]
 }
