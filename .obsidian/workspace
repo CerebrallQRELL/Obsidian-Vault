@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Input() function.md",
+            "file": "Templates/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Input() function.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,6 +77,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bac4c7caad8ffc4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -89,15 +100,15 @@
   },
   "active": "6029631202aabedd",
   "lastOpenFiles": [
-    "Programming/Input() function.md",
-    "Programming/Length len().md",
-    "Programming/Lists.md",
-    "Programming/Math Operators.md",
-    "Sites Lists/Piracy Sites.md",
-    "Programming/Computer_Programming.md",
-    "Programming/Classes.md",
+    "Templates/Untitled.md",
+    "Notes/Programming/Input() function.md",
+    "Notes/Programming/Length len().md",
+    "Notes/Programming/Lists.md",
+    "Notes/Programming/Math Operators.md",
+    "Notes/Sites Lists/Piracy Sites.md",
+    "Notes/Programming/Computer_Programming.md",
+    "Notes/Programming/Classes.md",
     "Untitled.md",
-    "Chemistry/Base.md",
-    "Chemistry/Acid.md"
+    "Notes/Chemistry/Base.md"
   ]
 }

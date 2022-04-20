@@ -4,5 +4,8 @@
   "obsidian-jupyter",
   "cm-editor-syntax-highlight-obsidian",
   "meld-encrypt",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "sliding-panes-obsidian",
+  "obsidian-admonition"
 ]

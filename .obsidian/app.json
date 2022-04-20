@@ -3,5 +3,7 @@
   "livePreview": true,
   "spellcheck": true,
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
 }
