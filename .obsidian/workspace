@@ -90,13 +90,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d2eea8ee8f02b69c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
