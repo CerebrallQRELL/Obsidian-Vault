@@ -1,3 +1,11 @@
+2022 04 2019 08
+
+Status: #idea
+
+Tags: [[Cooking]] [[Foods]]
+
+# Mother Sauces
+
 - ### Bechamel Sauce
 	- Milk, Flours, Butter
 
@@ -13,4 +21,7 @@
 - ### Tomato Sauce
 	- Tomato sauce with [[Roux]]
 
+
+
+# References
 

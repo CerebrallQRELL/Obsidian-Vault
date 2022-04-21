@@ -1,10 +1,10 @@
-{{date:YYYY MM DD}}{{time:HH mm}}
+{{date:YYYY MM DD}}{{time:HHmm}}
 
 Status: #idea
 
-Tags:
+Tags: 
 
-#{{title}}
+# {{title}}
 
 
 
