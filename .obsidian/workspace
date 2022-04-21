@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6029631202aabedd",
+        "id": "f9b90dbbd2799d62",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Untitled.md",
+            "file": "Notes/Cooking/Roux.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Notes/Cooking/Roux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6029631202aabedd",
+  "active": "f9b90dbbd2799d62",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
-    "Notes/Programming/Input() function.md",
-    "Notes/Programming/Length len().md",
-    "Notes/Programming/Lists.md",
-    "Notes/Programming/Math Operators.md",
-    "Notes/Sites Lists/Piracy Sites.md",
-    "Notes/Programming/Computer_Programming.md",
-    "Notes/Programming/Classes.md",
+    "Notes/Cooking/Roux.md",
+    "Notes/Cooking/Mother Sauces.md",
+    "Notes/Cooking/Leaveners.md",
+    "Notes/Cooking/Food Temperature.md",
+    "Notes/Untitled.md",
+    "Notes/Thing.md",
+    "Templates/Core Idea.md",
     "Untitled.md",
-    "Notes/Chemistry/Base.md"
+    "Notes/Programming/Input() function.md",
+    "Notes/Programming/Length len().md"
   ]
 }
