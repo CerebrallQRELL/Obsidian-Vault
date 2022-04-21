@@ -1,4 +1,4 @@
-{{date:YYYY-MM-DD}}{{time:H:mm}}
+{{date:YYYY-MM-DD}} {{time:H:mm}}
 
 Status: #idea
 
