@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Chemistry/Protons.md",
+            "file": "Notes/Lynis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Chemistry/Protons.md",
+                "file": "Notes/Lynis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Lynis.md",
+    "Notes/NMAP.md",
+    "Templates/Core Idea.md",
     "Notes/Chemistry/Protons.md",
     "Notes/Chemistry/Neutron.md",
     "Notes/Chemistry/Base.md",
     "Notes/Chemistry/Acid.md",
     "Journal/2022-04-20.md",
-    "Templates/Core Idea.md",
     "Notes/Sites Lists/Piracy Sites.md",
-    "Notes/Programming/Bubble Sort.md",
-    "Notes/Programming/C++.md",
-    "Notes/Programming/Classes.md"
+    "Notes/Programming/Bubble Sort.md"
   ]
 }
