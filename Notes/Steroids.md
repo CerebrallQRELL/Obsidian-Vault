@@ -4,6 +4,7 @@ Armidex 1mg * 50 $25
 
 Anavar 25mg * 50 $35
 Tbol 25mg x 50 $35
+Equipose 250mg * 10ml $25.00
 
 HCG 5000mg $25.66 + 15.40
 
