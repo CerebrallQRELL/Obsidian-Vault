@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Lynis.md",
+            "file": "Notes/Steroids.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lynis.md",
+                "file": "Notes/Steroids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Steroids.md",
     "Notes/Lynis.md",
     "Notes/NMAP.md",
     "Templates/Core Idea.md",
@@ -117,7 +118,6 @@
     "Notes/Chemistry/Base.md",
     "Notes/Chemistry/Acid.md",
     "Journal/2022-04-20.md",
-    "Notes/Sites Lists/Piracy Sites.md",
-    "Notes/Programming/Bubble Sort.md"
+    "Notes/Sites Lists/Piracy Sites.md"
   ]
 }
