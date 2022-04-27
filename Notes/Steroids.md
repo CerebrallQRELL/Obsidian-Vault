@@ -9,3 +9,4 @@ Deca 200mg * 10ml $25
 HCG 5000mg $25.66 + 15.40
 
 
+EQ $1.9 g or 20ml 500mg $75
