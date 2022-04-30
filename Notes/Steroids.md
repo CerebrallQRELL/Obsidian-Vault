@@ -9,5 +9,9 @@ Deca 200mg * 10ml $25
 HCG 5000mg $25.66 + 15.40
 
 
-750 Test
-200 tren
+750 Test 8 vials
+Anavar 25 mg per day 2
+Armidex 2
+Nolvadex 1
+$365
+
