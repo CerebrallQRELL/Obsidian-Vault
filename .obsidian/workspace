@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Programming/Function.md",
+            "file": "Notes/Programming/Classes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programming/Function.md",
+                "file": "Notes/Programming/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Programming/Classes.md",
+    "Notes/Programming/Loops.md",
     "Notes/Programming/Function.md",
     "Notes/Programming/Filter filter().md",
     "Notes/Programming/Bubble Sort.md",
@@ -116,8 +118,6 @@
     "Notes/Lynis.md",
     "Notes/NMAP.md",
     "Templates/Core Idea.md",
-    "Notes/Chemistry/Protons.md",
-    "Notes/Chemistry/Neutron.md",
-    "Notes/Chemistry/Base.md"
+    "Notes/Chemistry/Protons.md"
   ]
 }
