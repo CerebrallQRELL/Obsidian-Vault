@@ -8,7 +8,8 @@ Tags: [[Chemistry]]
 ![[Pasted image 20220430145447.jpg]]
 
 
-
+12 is number of protons+neutrons
+6 is number of neutrons 
 
 
 
