@@ -6,10 +6,7 @@ Tags: [[Chemistry]]
 
 # Protons
 Number of protons = atomic number
-
-
-
-
+![[Pasted image 20220430145146.jpg]]
 
 
 

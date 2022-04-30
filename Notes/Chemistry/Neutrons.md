@@ -5,7 +5,7 @@ Status: #idea
 Tags: [[Chemistry]]
 
 # Neutrons
-
+![[Pasted image 20220430145447.jpg]]
 
 
 
