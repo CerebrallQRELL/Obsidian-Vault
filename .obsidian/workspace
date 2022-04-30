@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Periodic Table.md",
+            "file": "Notes/Chemistry/Protons.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Periodic Table.md",
+                "file": "Notes/Chemistry/Protons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +109,9 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Chemistry/Protons.md",
     "Notes/Periodic Table.md",
     "Notes/Chemistry/Neutrons.md",
-    "Notes/Chemistry/Protons.md",
     "Notes/Chemistry/Acid.md",
     "Notes/Steroids.md",
     "Notes/Programming/Classes.md",

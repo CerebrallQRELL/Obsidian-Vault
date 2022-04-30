@@ -5,7 +5,7 @@ Status: #idea
 Tags: [[Chemistry]]
 
 # Protons
-
+Number of protons = atomic number
 
 
 

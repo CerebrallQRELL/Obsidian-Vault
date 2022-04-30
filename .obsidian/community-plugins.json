@@ -12,5 +12,6 @@
   "templater-obsidian",
   "calendar",
   "code-block-copy",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "obsidian-citation-plugin"
 ]
