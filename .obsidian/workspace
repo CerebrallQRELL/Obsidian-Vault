@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Random Module.md",
+            "file": "Notes/Serotonin.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Module.md",
+                "file": "Notes/Serotonin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Serotonin.md",
+    "Notes/Glutamate.md",
     "Notes/Random Module.md",
     "Notes/Chemistry/Neutrons.md",
     "Notes/Chemistry/Protons.md",
@@ -116,8 +118,6 @@
     "Notes/Periodic Table.md",
     "Notes/Chemistry/Acid.md",
     "Notes/Steroids.md",
-    "Notes/Programming/Classes.md",
-    "Notes/Programming/Loops.md",
-    "Notes/Programming/Function.md"
+    "Notes/Programming/Classes.md"
   ]
 }
