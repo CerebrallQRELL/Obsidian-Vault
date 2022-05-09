@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Chemistry/Neutrons.md",
+            "file": "Notes/Random Module.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Chemistry/Neutrons.md",
+                "file": "Notes/Random Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Notes/Random Module.md",
     "Notes/Chemistry/Neutrons.md",
     "Notes/Chemistry/Protons.md",
     "Notes/Electrons.md",
@@ -117,7 +118,6 @@
     "Notes/Steroids.md",
     "Notes/Programming/Classes.md",
     "Notes/Programming/Loops.md",
-    "Notes/Programming/Function.md",
-    "Notes/Programming/Filter filter().md"
+    "Notes/Programming/Function.md"
   ]
 }
