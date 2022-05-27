@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Serotonin.md",
+            "file": "Journal/2022-05-09.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Serotonin.md",
+                "file": "Journal/2022-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "1d5c91c9aefa1236",
   "lastOpenFiles": [
+    "Journal/2022-05-09.md",
     "Notes/Serotonin.md",
     "Notes/Glutamate.md",
     "Notes/Random Module.md",
@@ -117,7 +118,6 @@
     "Notes/Electrons.md",
     "Notes/Periodic Table.md",
     "Notes/Chemistry/Acid.md",
-    "Notes/Steroids.md",
-    "Notes/Programming/Classes.md"
+    "Notes/Steroids.md"
   ]
 }
